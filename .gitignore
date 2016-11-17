@@ -28,3 +28,6 @@ Podfile.lock
 
 #playground
 AeroGearHttpSample.playground/timeline.xctimeline
+
+# Other
+.ruby-version
